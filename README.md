@@ -1,9 +1,12 @@
-# React + Vite
+## React Axios Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* Created a React App that allows for CRUD operations with user 
+  data using React and Axios fetch to interact with a mock API
 
-Currently, two official plugins are available:
+* Displayed all the existing API data in UI using Axios.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# React-Axios" 
+* Users should be able to perform CRUD operations on user data,
+  including adding, editing, and deleting user records.
+
+* mock API that can be accessed using Axios fetch.  
+  
